@@ -1,7 +1,6 @@
 import * as React from "react"
 import Layout from "../components/layout"
 
-
 export default function PoliticaPrivacidade(){
     return(
         <Layout lang="pt-br">

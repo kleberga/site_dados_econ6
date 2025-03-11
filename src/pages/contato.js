@@ -1,7 +1,5 @@
 import * as React from "react"
 import Layout from "../components/layout"
-import Formulario from "../components/formulario"
-import { StaticImage } from "gatsby-plugin-image"
 
 export default function Contato(){
     return(
